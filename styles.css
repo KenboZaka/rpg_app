@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+li{
+   list-style: none; 
+}
+.monster{
+    font-size: 100px;
+}
+.main-screen{
+    height: 300px;
+}
+.command-btn{
+    background-color: black;
+    color:white;
+}
+.error{
+    color: red;
+}
